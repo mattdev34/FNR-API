@@ -6,7 +6,7 @@ jQuery(document).ready(function() {
 	var host = "unit-test.newgrounds.io";
 	var version = "1.0.0";
 	var app_id = "52052:L8pfXtKH";
-	var encrypt_key = "Ywo3q8TvsW7FBWtILCJqLqvD88nYqk0L";
+	var encrypt_key = "nI5xGXkQFvHE36Bqx79hYQ==";
 
 	// create our ngio instance and put it in debug mode
 	var ngio = new Newgrounds.io.core(app_id, encrypt_key);
